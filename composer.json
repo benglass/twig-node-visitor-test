@@ -1,0 +1,12 @@
+{
+    "name": "benglass/twig-tpl",
+    "require": {
+        "twig/twig": "@stable"
+    },
+    "authors": [
+        {
+            "name": "Ben Glassman",
+            "email": "ben@vtdesignworks.com"
+        }
+    ]
+}
